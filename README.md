@@ -20,6 +20,7 @@ An official event flyer designed for **ESOCS MZYS Enugu Province**, celebrating 
 ### Graphic Design
 - Logos, flyers, posters, banners, and social media graphics
 - Tools: **Photoshop**, **Illustrator**, **Canva**
+![1000392470](https://github.com/user-attachments/assets/5fab3aee-8156-4327-974c-c73339147468)
 
 ### Website Design
 - UI/UX mockups, landing pages, and WordPress websites
